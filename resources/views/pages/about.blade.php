@@ -1,7 +1,7 @@
 @extends('layouts.default')
 @section('content')
 
-    <br><br><h4 class="col-sm-12 text-center"><strong>About The Bouffage</strong></h4>
+    <br><h4 class="col-sm-12 text-center"><strong>About The Bouffage</strong></h4>
     <section class="container">
         <div class="row">
             <div class="col-sm-6">
