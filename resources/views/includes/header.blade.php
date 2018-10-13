@@ -11,7 +11,7 @@
                     <a class="nav-link" href="/">Home Page</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="/about">About You</a>
+                    <a class="nav-link" href="/about">About Us</a>
                 </li>
             </ul>
 
